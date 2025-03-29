@@ -1,0 +1,70 @@
+Zaman yönetimi becerilerimi nasıl geliştirebilirim?
+Stresle başa çıkmanın en etkili yolları nelerdir?
+Python ve JavaScript programlama dilleri arasındaki temel farklar nelerdir?
+Evden çalışırken verimliliğimi nasıl artırabilirim?
+Kuantum bilişimin temellerini açıklayabilir misiniz?
+Bitkisel ve hayvansal protein kaynakları arasındaki farklar nelerdir?
+Eleştirel düşünme becerilerimi nasıl geliştirebilirim?
+Günümüzde eğitim sektörünün karşılaştığı en büyük zorluklar nelerdir?
+Tüketici davranışlarını etkileyen başlıca faktörler nelerdir?
+İş yerinde çatışma çözümü için en etkili stratejiler nelerdir?
+Tek kullanımlık plastik şişe ile yeniden kullanılabilir bir şişe kullanmanın çevre ve insan sağlığı üzerindeki olası etkileri nelerdir?
+Kapsayıcı ve erişilebilir bir toplu taşıma sistemi tasarlarken hangi faktörleri göz önünde bulundurmalısınız?
+Hükümetler ekonomik durgunlukla mücadele etmek için maliye ve para politikalarını nasıl kullanabilir?
+Dil ve kültürel engeller, çok kültürlü toplumlarda insanların iletişim kurma ve ilişkiler geliştirme şeklini nasıl etkiler?
+Yapay zekanın sağlık hizmetlerinin kalitesini ve verimliliğini artırmak için kullanılabileceği bir senaryoyu tanımlayın.
+CRISPR-Cas9 teknolojisi kullanılarak gen düzenleme sürecini açıklayın ve olası uygulamaları ile etik sonuçlarını tartışın.
+Aşılar, bireyleri ve toplulukları bulaşıcı hastalıklardan korumak için nasıl çalışır ve sürü bağışıklığı nedir?
+Sosyal medya platformları, insanların haberleri tüketme ve paylaşma şeklini nasıl etkiliyor ve yanlış bilginin yayılması açısından olası sonuçları nelerdir?
+Kültürel, sosyal ve ekonomik faktörler insanların beslenme tercihlerini nasıl etkiler ve bu bilgi daha sağlıklı diyetleri teşvik etmek için nasıl kullanılabilir?
+Doğal seçilim sürecini ve türlerin evrim ve adaptasyonuna nasıl katkıda bulunduğunu açıklayın.
+Bir Orta Çağ şövalyesi olarak bir kraliyet ziyafetinde kendinizi nasıl tanıtırsınız?
+Bir korsan kaptanı olarak, mürettebatınızı gizli hazine arayışına motive etmek için ne söylersiniz?
+Eğer bir Shakespeare karakteri olsaydınız, birine aşkınızı bir monologla nasıl ilan ederdiniz?
+Bir süper kahraman olarak, köken hikayenizi meraklı bir çocuğa nasıl anlatırsınız?
+3000 yılından gelen bir zaman yolcusu olduğunuzu hayal edin. İnsanlara hangi teknolojik gelişmelerden bahsedersiniz?
+Bir spor spikeri olarak, şampiyonluk maçının son saniyelerinde gerçekleşen kazanan hamleyi anlatın.
+Dünya çapında ünlü bir şef olduğunuzu hayal edin. Jüriye imza yemeğinizi nasıl tanımlarsınız?
+Everest Dağı’nın zirvesine ulaşan bir dağcı olarak hislerinizi ve manzarayı nasıl tarif edersiniz?
+Mars’ta bir kolonicisiniz. Günlük yaşamınızı ve başka bir gezegende yaşamanın getirdiği zorlukları anlatın.
+Bir kıyamet sonrası dünyada bir karakter olduğunuzu düşünün. Hayatta kalma stratejinizi ve karşılaştığınız müttefikleri anlatın.
+Bir restoranın yerel halk arasında mı popüler olduğunu yoksa daha çok turistleri mi çektiğini nasıl belirleyebilirsiniz ve bu bilgi neden faydalı olabilir?
+Birinin bir konuyu anlıyormuş gibi yapıp aslında kafasının karışık olduğunu gösteren ince ipuçları nelerdir?
+Neden biri GPS cihazı veya akıllı telefon uygulaması yerine bir kağıt harita kullanmayı veya birine yol sormayı tercih edebilir?
+Birinin gerçekten bir sohbetle ilgilendiğini mi yoksa sadece nezaketen mi katıldığını nasıl anlayabilirsiniz?
+Neden biri, fiyatlar daha yüksek olmasına rağmen büyük bir zincir mağaza yerine küçük, yerel bir işletmeyi tercih edebilir?
+Bir haber makalesi veya blog gönderisi gibi bir bilgi kaynağının güvenilirliğini, yalnızca yazarın veya yayıncının itibarına güvenmeden nasıl değerlendirebilirsiniz?
+Bazı insanlar neden korkutucu deneyimlerden (örneğin, korku filmleri izlemek veya hız trenine binmek) keyif alırken diğerleri bu tür deneyimlerden kaçınır?
+Bir sosyal ortamda başkalarının davranışlarını gözlemlemek, kültürel normlar ve beklentiler hakkında nasıl ipuçları verebilir?
+Uzayı keşfetme konusunda ahlaki bir yükümlülüğümüz var mı, yoksa önce Dünya’daki sorunları çözmeye mi odaklanmalıyız?
+Otomasyonun giderek yaygınlaştığı bir dünyada, iş yaratmayı mı yoksa teknolojik ilerlemeyi mi önceliklendirmek daha önemli?
+Ortalama bir insan ömrü boyunca kaç kez göz kırpar? Cevabınızı adım adım mantık yürüterek açıklayın.
+Bir tuz tanesinde kaç atom bulunur? Cevabınızı adım adım açıklayın.
+Dünya’da her gün kaç yıldırım çakar? Cevabınızı adım adım açıklayın.
+Bir evin, “Up” filmindeki gibi, havalanması için kaç balon gerekir? Cevabınızı adım adım açıklayın.
+Dünya genelinde dakikada kaç kısa mesaj gönderilir? Cevabınızı adım adım açıklayın.
+Dünya’da her gün kaç kelime konuşuluyor? Cevabınızı adım adım açıklayın.
+Tipik bir kış mevsiminde kaç kar tanesi düşer? Cevabınızı adım adım açıklayın.
+Şimdiye kadar yazılmış tüm kitaplarda kaç sayfa bulunur? Cevabınızı adım adım açıklayın.
+Yaşamın başlangıcından bu yana Dünya, Güneş’in etrafında kaç kez döndü? Cevabınızı adım adım açıklayın.
+Tarih boyunca kaç şarkı kaydedildi? Cevabınızı adım adım açıklayın.
+Rönesans döneminde internet icat edilmiş olsaydı ne olurdu?
+Aztekler, İspanyol fatihleri başarıyla püskürtmüş olsaydı ne olurdu?
+14. yüzyılda Kara Veba hiç yaşanmasaydı ne olurdu?
+Isaac Newton fiziğe değil biyolojiye odaklanmış olsaydı ne olurdu?
+The Beatles grubu hiç kurulmasaydı ne olurdu?
+Alan Turing, II. Dünya Savaşı’nda Enigma kodunu çözemeseydi ne olurdu?
+Süveyş Kanalı hiç inşa edilmemiş olsaydı ne olurdu?
+Maya uygarlığı gizemli bir şekilde çökmeseydi ne olurdu?
+Kristof Kolomb, Amerika kıtasını keşfetmemiş olsaydı ne olurdu?
+Vincent van Gogh, yaşamı boyunca başarılı bir sanatçı olsaydı ne olurdu?
+Potansiyel bir iş ortağına ortak girişim öneren resmi bir e-posta yazmama yardımcı olabilir misiniz?
+Mevcut işverenime iyi şartlarda ayrıldığımı belirten ve bana sağlanan fırsatlar için minnettarlığımı ifade eden bir istifa mektubu yazmama yardımcı olabilir misiniz?
+Bilgisayar bilimi alanında prestijli bir lisansüstü programına başvuran bir öğrenci için resmi bir tavsiye mektubu yazmak için uygun bir format kullanın.
+Yeni yazılım çözümümüzü müşterilere duyurmak için etkileyici bir ürün lansmanı e-postası yazın.
+Siparişinde gecikme yaşayan bir müşteriye özür dileyen ve sorunun çözüldüğünü belirten bir e-posta hazırlayın.
+Caz müziğinin tarihi ve kültürel önemi üzerine bir YouTube videosu için bir senaryo yazın.
+Hawaii’ye yapılan bir seyahatin kültürel deneyimlerini ve mutlaka görülmesi gereken yerlerini vurgulayan ilgi çekici bir gezi blog yazısı yazın.
+Yakın zamanda çıkan bir bilim kurgu filmi için etkileyici bir inceleme yazın.
+Müzik endüstrisinde akış platformlarının etkisini tartışan bir podcast bölümü için bir senaryo hazırlayın.
+Bir senfoni konseri hakkında, orkestranın performansını ve genel izleyici deneyimini ele alan bir inceleme yazın.

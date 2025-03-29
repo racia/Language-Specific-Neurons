@@ -1,18 +1,16 @@
+import argparse
 import torch
 import torch.nn.functional as F
 
-n, over_zero = [], []
-for lang in ['en', 'zh', 'fr', 'es', 'vi', 'id', 'ja']:
-    data = torch.load(f'data/activation.{lang}.train.llama-70b')
-    n.append(data['n'])
-    over_zero.append(data['over_zero'])
 
-n = torch.tensor(n)
-over_zero = torch.stack(over_zero, dim=-1)
+parser = argparse.ArgumentParser()
+parser.add_argument("-m", "--model", type=str, default="meta-llama/Llama-3-8b-hf")
+args = parser.parse_args()
 
-num_layers, intermediate_size, lang_num = over_zero.size()
+model = "llama-7b" if "llama" in args.model.lower() else "gpt"
 
-def activation():
+
+def activation(n, over_zero, num_layers, intermediate_size):
     top_rate = 0.01
     filter_rate = 0.95
     activation_bar_ratio = 0.95
@@ -60,6 +58,20 @@ def activation():
         for l, h in enumerate(layer_index):
             layer_index[l] = torch.tensor(h).long()
         final_indice.append(layer_index)
-    torch.save(final_indice, f"activation_mask/llama-70b")  
+        return final_indice
+        
 
-activation()
+if __name__ == "__main__":
+    
+    for lang in ["en", "de", "tr", "tk"]:#, 'en', 'zh', 'fr', 'es', 'vi', 'id', 'ja']:
+        n, over_zero = [], []
+        data = torch.load(f'activations/activation.{lang}.train.{model}') #llama-70b
+        n.append(data['n'])
+        over_zero.append(data['over_zero'])
+
+        n = torch.tensor(n)
+        over_zero = torch.stack(over_zero, dim=-1)
+
+        num_layers, intermediate_size, lang_num = over_zero.size()
+        final_indice = activation(n, over_zero, num_layers, intermediate_size)
+        torch.save(final_indice, f"activation_mask/{lang}.train.{model}") #llama-70b  

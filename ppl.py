@@ -14,6 +14,8 @@ parser.add_argument("-a", "--activation_mask", type=str, default="")
 args = parser.parse_args()
 
 is_llama = bool(args.model.lower().find('llama') >= 0)
+is_gpt2 = bool(args.model.lower().find("gpt2") >= 0)
+is_gpt3 = bool(args.model.lower().find("gpt") >= 0)
 model = LLM(model=args.model, tensor_parallel_size=torch.cuda.device_count(), enforce_eager=True)
 
 num_layers = model.llm_engine.model_config.hf_config.num_hidden_layers
@@ -26,9 +28,9 @@ else:
 
 final_output = []
 if is_llama:
-    languages = ["en", "zh", "fr", "es", "vi", "id", "ja"]
+    languages = ["en", "de", "tr", "tk"]
 else:
-    languages = ["en", "zh", "fr", "es", "vi", "id"]
+    languages = ["en", "de", "tr", "tk"]# "vi", "id"]
 
 for activation_mask, mask_lang in zip(activation_masks, languages):
     if activation_mask:
@@ -49,8 +51,33 @@ for activation_mask, mask_lang in zip(activation_masks, languages):
                 x, _ = self.dense_4h_to_h(x)
                 return x
 
+            def gpt3_forward(self, x: torch.Tensor):
+                # GPT-2 does not have a separate MLP, so we'll just process the hidden states as they are
+                # GPT-2 typically applies layer normalization, attention, and then feed-forward operations
+
+                # gate_up = self.attn(x)[0]  # Assuming the attention module outputs the hidden states
+                # activation = gate_up.float()
+                # over_zero[idx, :] += (activation > 0).sum(dim=(0, 1))  # Track positive activations
+                # x = self.ln_1(gate_up)
+                # x = self.mlp(x)  # GPT-2 MLP layers typically apply some feed-forward networks
+                # return x
+                
+                x, _ = self.c_fc(x)
+                x = self.act(x)
+                activation = x.float()
+                x.index_fill_(2, mask, 0)
+                x, _ = self.c_proj(x)
+                return x
+
+
+
             if is_llama:
                 return llama_forward
+            elif is_gpt2:
+                #return gpt2_forward
+                pass
+            elif is_gpt3:
+                return gpt3_forward
             else:
                 return bloom_forward
 
@@ -66,7 +93,7 @@ for activation_mask, mask_lang in zip(activation_masks, languages):
         if is_llama:
             ids = torch.load(f'data/id.{lang}.valid.llama')
         else:
-            ids = torch.load(f'data/id.{lang}.valid.bloom')
+            ids = torch.load(f'data/id.{lang}.valid.gpt') #bloom
         l = ids.size(0)
         l = min(l, 2**20) // max_length * max_length
         input_ids = ids[:l].reshape(-1, max_length)

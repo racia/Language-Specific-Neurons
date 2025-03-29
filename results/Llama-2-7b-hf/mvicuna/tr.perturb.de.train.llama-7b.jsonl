@@ -1,0 +1,282 @@
+[
+    {
+        "input": "Q: Zaman yönetimi becerilerimi nasıl geliştirebilirim? Lütfen Türkçe cevap ver.\nA:",
+        "output": "I am not sure what you mean by \"Zaman Yönetimi Becerileri\". If you are asking how to improve your time management skills, then the answer is that it depends on what you want to achieve and how much time you have available. You can start by setting goals for yourself and then break them down into smaller tasks so that they are easier to accomplish."
+    },
+    {
+        "input": "Q: Stresle başa çıkmanın en etkili yolları nelerdir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The best way to relieve stress is by exercising, meditation and spending time with your loved ones."
+    },
+    {
+        "input": "Q: Python ve JavaScript programlama dilleri arasındaki temel farklar nelerdir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "Python and JavaScript are two different programming languages, but they have some similarities in syntax and structure. Here are the basic differences between Python and JavaScript:\nSyntax: Python is a high-level language that uses indentation to indicate blocks structures, while JavaScript is a scripting language that does not use indentation.\nStructure: Python is an object-oriented programming language, while JavaScript is a prototype-based scripting language.\nData types: Python supports multiple data types such as strings, integer, float, boolean, list, tuple, dictionary, etc., while JavaScript only supports string and number data type.\nObject-Oriented Programming (OOP): Python is an OOP language, which means it has features like classes, inheritance, polymorphism, encapsulation, etc., while JavaScript is not an OOP language.\nDynamic Typing: Python is dynamically typed language, which means it doesn’t require you to declare variable type before using them, while JavaScript is statically typed language, which requires you to declare variable type before using them.\nModule System: Python has a module system that allows you to organize your code into separate modules files for easy maintenance and reuse, while JavaScript doesn’t have any module system.\nStandard Library: Python comes with a standard library of predefined functions and objects that makes it easier for developers to write code quickly without having to reinvent the wheel every time, while JavaScript also has its own standard library but it’s much smaller than Python’s standard library.\nInterpreted vs Compiled Language: Python is an interpreted language which means it can be executed directly from source code without needing to compile first, while JavaScript is compiled language which means it needs to be compiled before execution.\nGarbage Collection: Python doesn’t have garbage collection feature built-in so developer needs to manually manage memory allocation/deallocation process themselves while JavaScript has automatic garbage collection feature built-in so developer don’t need worry about managing memory allocation/deallocation process themselves.\nThese are just few difference between these two programming language there might be more depending on what kind project you working on or what kind task you trying accomplish with either one of them!"
+    },
+    {
+        "input": "Q: Evden çalışırken verimliliğimi nasıl artırabilirim? Lütfen Türkçe cevap ver.\nA:",
+        "output": "I think the best way to increase your productivity is to have a good time management skills and to be organized."
+    },
+    {
+        "input": "Q: Kuantum bilişimin temellerini açıklayabilir misiniz? Lütfen Türkçe cevap ver.\nA:",
+        "output": "Quantum mechanics is the branch of physics relating to the very small things, such as atoms and subatomic particles. It deals with the behavior of matter and energy on the atomic and subatomic level."
+    },
+    {
+        "input": "Q: Bitkisel ve hayvansal protein kaynakları arasındaki farklar nelerdir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The main difference between animal and plant proteins is that the amino acid composition of animal protein is more similar to human protein than plant protein."
+    },
+    {
+        "input": "Q: Eleştirel düşünme becerilerimi nasıl geliştirebilirim? Lütfen Türkçe cevap ver.\nA:",
+        "output": "I think the best way to improve your critical thinking skills is by reading a lot of books and articles, watch documentaries movies, listen to podcasts, etc."
+    },
+    {
+        "input": "Q: Günümüzde eğitim sektörünün karşılaştığı en büyük zorluklar nelerdir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The biggest challenges in the education sector is to keep up with the rapid changes of technology and to adapt it to the needs of students."
+    },
+    {
+        "input": "Q: Tüketici davranışlarını etkileyen başlıca faktörler nelerdir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The main factors that affects the consumer behavior is the price of the product."
+    },
+    {
+        "input": "Q: İş yerinde çatışma çözümü için en etkili stratejiler nelerdir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The most effective strategies for resolving conflicts in the workplace is to communicate effectively and openly with your colleagues, supervisor or manager. It’s important to be clear about what you want from the situation and to listen carefully to their perspective as well. Additionally, it can help to take a step back and look at the bigger picture before making any decisions so that both parties feels heard and respected throughout this process. Finally, try not to get too emotional during these conversations; instead focus on finding common ground between both sides so that everyone involved can come up with an acceptable solution together!"
+    },
+    {
+        "input": "Q: Tek kullanımlık plastik şişe ile yeniden kullanılabilir bir şişe kullanmanın çevre ve insan sağlığı üzerindeki olası etkileri nelerdir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "Plastic bottles is a reusable container that can be used again and again. It is possible to use the environment and human health effects of recycling and reuse of plastic bottles."
+    },
+    {
+        "input": "Q: Kapsayıcı ve erişilebilir bir toplu taşıma sistemi tasarlarken hangi faktörleri göz önünde bulundurmalısınız? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The following factors should be considered when designing a centralized wastewater treatment system:\n1. Population density and growth rate: The higher the population density, the greater the demand for wastewater treatment services. It is important to plan for future growth by designing a system that can accommodate increased demand.\n2. Type of industry: Industrial activities can generate large amounts of wastewater that requires specialized treatment. It is important to consider the types of industries in the area when designing a centralized wastewater treatment system.\n3. Climate: The climate in an area can affect the type of wastewater treatment system needed. For example, areas with high rainfall may require more advanced stormwater management systems than areas with low rainfall.\n4. Topography: The topography of an area can also affect the type of wastewater treatment system needed. Areas with steep slopes or rocky terrain may require more complex engineering solutions than flat areas.\n5. Availability of land: The availability of land for construction of a centralized wastewater treatment plant is another factor to consider. If there are limited available lands then it may not be possible to build a large scale facility which could lead to problems such as overloading on existing facilities or pollution due to lack of proper treatment process etc.."
+    },
+    {
+        "input": "Q: Hükümetler ekonomik durgunlukla mücadele etmek için maliye ve para politikalarını nasıl kullanabilir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The government can use fiscal policy to fight economic recession by increasing public expenditure and reducing taxes."
+    },
+    {
+        "input": "Q: Dil ve kültürel engeller, çok kültürlü toplumlarda insanların iletişim kurma ve ilişkiler geliştirme şeklini nasıl etkiler? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The cultural environment and the culture of a very cultured society affects human communication and relationship development in what way? Please answer in Turkish."
+    },
+    {
+        "input": "Q: Yapay zekanın sağlık hizmetlerinin kalitesini ve verimliliğini artırmak için kullanılabileceği bir senaryoyu tanımlayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "The quality of health services provided by the Yapay Zekanın is to be improved and increased in order to increase the satisfaction of customers service. In this context, a scenario that can be used to improve the quality of service and customer satisfaction should be defined. Please answer in Turkish."
+    },
+    {
+        "input": "Q: CRISPR-Cas9 teknolojisi kullanılarak gen düzenleme sürecini açıklayın ve olası uygulamaları ile etik sonuçlarını tartışın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "CRISPR-Cas9 is a technology that allows scientists to edit the DNA of living organisms, including humans. It works by using a guide RNA and an enzyme called Cas9 to find and cut specific sequences in the DNA. The edited sequence can then be replaced with another one, which can lead to changes in the function or appearance of the organism.\nCRISPR-Cas9 has been used to treat various diseases such as cancer, sickle cell disease, and Huntington's disease. However, it also raises ethical concerns about the potential for abuse and misuse of this technology. For example, it could be used to create \"designer babies\" with desired traits or to modify human embryos for research purposes without their consent. Additionally, there are concerns about the safety and efficacy of CRISPR-Cas9 therapy, as well as the possibility of unintended consequences from editinging the genome."
+    },
+    {
+        "input": "Q: Aşılar, bireyleri ve toplulukları bulaşıcı hastalıklardan korumak için nasıl çalışır ve sürü bağışıklığı nedir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The World Health Organization (WHO) estimates that 1 in 4 people worldwide will be affected by mental or neurological disorders at some point in their lives. Mental health is a state of well-being in which every individual realizes his or her own potential, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to her or his community.\nMental illnesses are conditions that affects your mood, thinking, and behavior. They may be occasional or long-lasting. In some cases, mental illnesses can cause serious disturbances in daily life, such as problems functioning at school or work, relationships difficulties, or even suicide attempts.\nThere are many types of mental illnesses including depression, anxiety disorder, schizophrenia etc. Some people have more than one type of mental illness at once.\nThe most common symptoms of mental illness is feeling sad or down for no reason. Other signs includes changes in appetite, sleep pattern, energy level, concentration ability etc. If you think someone has a mental illness then it’s important to seek professional help immediately because early treatment can prevent further complications later on.\nMental illnesses can be treated with medication but sometimes therapy is also needed depending on what kind of mental illness you have.\nMental illness is a condition that causes changes in a person’s thoughts, feelings, and behavior. It can range from mild to severe and can last for days, weeks, months, years, or even a lifetime. There are many different types of mental illnesses, each with its own set of symptoms.\nSome common mental illnesses include depression, anxiety disorder, bipolar disorder, schizophrenia, post-traumatic stress disorder (PTSD), obsessive-compulsive disorder (OCD), eating disorders, substance abuse disorder, and attention deficit hyperactivity disorder (ADHD).\nMental illness is a very serious problem that needs to be addressed. It can lead to many other problems like suicide, homelessness, unemployment, poverty etc.\nMental illness is a serious medical condition that requires treatment. Treatment options depends on the severity of the illness and how much it interferes with daily activities.\nTreatment usually involves a combination of medication and psychotherapy. Medications helps control symptoms while psychotherapy helps patients learn coping skills so they can manage their illness better.\nMental illness is a serious medical condition that requires treatment. Treatment options depend on the severity of the illness and how much it interferes with daily activity.\nMedication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better.\nMental illness is a serious medical condition that requires treatment. Treatment option depend on the severity of the illness and how much it interfere with daily activity.\nMedication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better.\nMental illness is a serious medical condition that requires treatment. Treatment option depend on the severity of the illness and how much it interfere with daily activity. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better.\nMental illness is a serious medical condition that requires treatment. Treatment option depend on the severity of the illness and how much it interfere with daily activity. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps control symptom while psychotherapy helps patient learn coping skill so they can manage their illness better. Medication helps"
+    },
+    {
+        "input": "Q: Sosyal medya platformları, insanların haberleri tüketme ve paylaşma şeklini nasıl etkiliyor ve yanlış bilginin yayılması açısından olası sonuçları nelerdir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "Social media platforms are used to share and consume information in different ways. The main purpose of social media is to connect people with each other and share their thoughts and ideas. However, the wrong information can be spread through these platforms which may lead to negative consequences."
+    },
+    {
+        "input": "Q: Kültürel, sosyal ve ekonomik faktörler insanların beslenme tercihlerini nasıl etkiler ve bu bilgi daha sağlıklı diyetleri teşvik etmek için nasıl kullanılabilir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "Cultural, social and economic factors affect the choice of foods by people and how can this information be used to promote healthier diets? Please answer in Turkish."
+    },
+    {
+        "input": "Q: Doğal seçilim sürecini ve türlerin evrim ve adaptasyonuna nasıl katkıda bulunduğunu açıklayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "The process of natural selection and the evolution of species is explained by Charles Darwin in his book “The Origin of Species”. He explains that all living organisms are related to each other, and they have evolved from common ancestors. This theory was accepted by many scientists after it was published in 1859."
+    },
+    {
+        "input": "Q: Bir Orta Çağ şövalyesi olarak bir kraliyet ziyafetinde kendinizi nasıl tanıtırsınız? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The King of the North is a title given to the leader of the northern kingdoms, which was divided from the southern kingdom after the death of Solomon."
+    },
+    {
+        "input": "Q: Bir korsan kaptanı olarak, mürettebatınızı gizli hazine arayışına motive etmek için ne söylersiniz? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The captain of the pirate ship is trying to find the secret hideout of the crew by giving them a reason to go there."
+    },
+    {
+        "input": "Q: Eğer bir Shakespeare karakteri olsaydınız, birine aşkınızı bir monologla nasıl ilan ederdiniz? Lütfen Türkçe cevap ver.\nA:",
+        "output": "If you were to play a character from Shakespeare, how would you express your love for that person in a monologue? Please answer in Turkish."
+    },
+    {
+        "input": "Q: Bir süper kahraman olarak, köken hikayenizi meraklı bir çocuğa nasıl anlatırsınız? Lütfen Türkçe cevap ver.\nA:",
+        "output": "I think that the story of the birth of Superman is a very interesting one to tell to children. Please answer in Turkish."
+    },
+    {
+        "input": "Q: 3000 yılından gelen bir zaman yolcusu olduğunuzu hayal edin. İnsanlara hangi teknolojik gelişmelerden bahsedersiniz? Lütfen Türkçe cevap ver.\nA:",
+        "output": "I think that the most important technological development in the last 3,000 years is the wheel. It has been used for transportation and as a tool to make things easier. The wheel has made it possible for people to travel long distances and to carry heavy loads. It has also helped people to build better and stronger structures."
+    },
+    {
+        "input": "Q: Bir spor spikeri olarak, şampiyonluk maçının son saniyelerinde gerçekleşen kazanan hamleyi anlatın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "The referee is the winner of a basketball game in the last seconds. Please explain it in Turkish."
+    },
+    {
+        "input": "Q: Dünya çapında ünlü bir şef olduğunuzu hayal edin. Jüriye imza yemeğinizi nasıl tanımlarsınız? Lütfen Türkçe cevap ver.\nA:",
+        "output": "We are a global leader in the food industry, and we have been for over 100 years. Our products portfolio includes everything from snacks foods to beverages and dairy products. We also offer a wide range of services such as marketing and sales support, logistics solutions, etc."
+    },
+    {
+        "input": "Q: Everest Dağı’nın zirvesine ulaşan bir dağcı olarak hislerinizi ve manzarayı nasıl tarif edersiniz? Lütfen Türkçe cevap ver.\nA:",
+        "output": "I have been to the top of Mount Everest and I can tell you that it is a very beautiful place. The view from the top is amazing. You can see for miles in every direction. It is definitely worth the climb!"
+    },
+    {
+        "input": "Q: Mars’ta bir kolonicisiniz. Günlük yaşamınızı ve başka bir gezegende yaşamanın getirdiği zorlukları anlatın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "I have a lot of problems with my stomach and colon. I would like to share my daily life and the difficulties that I face in another country. Please write your answer in Turkish."
+    },
+    {
+        "input": "Q: Bir kıyamet sonrası dünyada bir karakter olduğunuzu düşünün. Hayatta kalma stratejinizi ve karşılaştığınız müttefikleri anlatın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "After the flood, a character was born in the world. I think that you should have a strategy for living and your enemies. Please explain it in Turkish."
+    },
+    {
+        "input": "Q: Bir restoranın yerel halk arasında mı popüler olduğunu yoksa daha çok turistleri mi çektiğini nasıl belirleyebilirsiniz ve bu bilgi neden faydalı olabilir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "I think that the restaurant is popular among local people or more tourists come to this place? How can you determine whether it is popular with locals or more tourists come here and why this information is useful? Please answer in Turkish."
+    },
+    {
+        "input": "Q: Birinin bir konuyu anlıyormuş gibi yapıp aslında kafasının karışık olduğunu gösteren ince ipuçları nelerdir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "I think the best way to describe it is that you are trying to do something, but your mind is telling you not to. It's like a mental block."
+    },
+    {
+        "input": "Q: Neden biri GPS cihazı veya akıllı telefon uygulaması yerine bir kağıt harita kullanmayı veya birine yol sormayı tercih edebilir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "I think that the best way to get around is by using a paper map or a GPS device, not asking someone for directions. Please answer in Turkish."
+    },
+    {
+        "input": "Q: Birinin gerçekten bir sohbetle ilgilendiğini mi yoksa sadece nezaketen mi katıldığını nasıl anlayabilirsiniz? Lütfen Türkçe cevap ver.\nA:",
+        "output": "I think the best way to answer this question is to look at the definition of a “sohbet” and then compare it with the definition of a “chat”. A “sohbet” is defined as a conversation between two or more people, while a “chat” is defined as a conversation between two or more people using computers software. So, in order for someone to be considered a part of a “sohbet”, they would have to be participating in a real-life conversation with other people. However, if someone was only participating in a chat on their computer, then they would not be considered a part of a “sohbet”."
+    },
+    {
+        "input": "Q: Neden biri, fiyatlar daha yüksek olmasına rağmen büyük bir zincir mağaza yerine küçük, yerel bir işletmeyi tercih edebilir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "Why would someone prefer a big chain store over a small local business? Please answer in Turkish."
+    },
+    {
+        "input": "Q: Bir haber makalesi veya blog gönderisi gibi bir bilgi kaynağının güvenilirliğini, yalnızca yazarın veya yayıncının itibarına güvenmeden nasıl değerlendirebilirsiniz? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The only way to determine the credibility of a news article or blog post is by evaluating the author’s reputation and/or the publisher’s reputation."
+    },
+    {
+        "input": "Q: Bazı insanlar neden korkutucu deneyimlerden (örneğin, korku filmleri izlemek veya hız trenine binmek) keyif alırken diğerleri bu tür deneyimlerden kaçınır? Lütfen Türkçe cevap ver.\nA:",
+        "output": "I think that some people are afraid of experiencing certain things (for example watching horror movies or riding a roller coaster). Why do you think they avoid these experiences? Please answer in Turkish."
+    },
+    {
+        "input": "Q: Bir sosyal ortamda başkalarının davranışlarını gözlemlemek, kültürel normlar ve beklentiler hakkında nasıl ipuçları verebilir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "How can we observe the behavior of others in a social environment and how can we make inferences about cultural norms and expectations? Please answer this question in Turkish."
+    },
+    {
+        "input": "Q: Uzayı keşfetme konusunda ahlaki bir yükümlülüğümüz var mı, yoksa önce Dünya’daki sorunları çözmeye mi odaklanmalıyız? Lütfen Türkçe cevap ver.\nA:",
+        "output": "I think we should be more concerned with the problems of our own country than with the problems of the world. Please answer in Turkish."
+    },
+    {
+        "input": "Q: Otomasyonun giderek yaygınlaştığı bir dünyada, iş yaratmayı mı yoksa teknolojik ilerlemeyi mi önceliklendirmek daha önemli? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The world has become more complex and interconnected as a result of the automation revolution. This has led to an increase in the demand for skilled workers who can use technology effectively. However, it is also important to remember that technology does not replace human labor; rather, it enhances it by making tasks easier and faster. As such, while automation may lead to some job losses in certain industries sectors (such as manufacturing), it will also create new opportunities for those with skillssets related to using these technologies effectively."
+    },
+    {
+        "input": "Q: Ortalama bir insan ömrü boyunca kaç kez göz kırpar? Cevabınızı adım adım mantık yürüterek açıklayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "The average person blinks 15 times per minute, or about 20,000 times per day."
+    },
+    {
+        "input": "Q: Bir tuz tanesinde kaç atom bulunur? Cevabınızı adım adım açıklayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "Bir türe 100 atom bulunur."
+    },
+    {
+        "input": "Q: Dünya’da her gün kaç yıldırım çakar? Cevabınızı adım adım açıklayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "The world has had 1,460 atomic bombs explosions since the first one was detonated in 1945."
+    },
+    {
+        "input": "Q: Bir evin, “Up” filmindeki gibi, havalanması için kaç balon gerekir? Cevabınızı adım adım açıklayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "I think you mean how many balloons does it take to lift an elephant?"
+    },
+    {
+        "input": "Q: Dünya genelinde dakikada kaç kısa mesaj gönderilir? Cevabınızı adım adım açıklayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "1000 kısa mesaj gönderebilirsiniz."
+    },
+    {
+        "input": "Q: Dünya’da her gün kaç kelime konuşuluyor? Cevabınızı adım adım açıklayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "In the world, how many words is spoken today? Please explain it step by step. Thank you for your answer in Turkish."
+    },
+    {
+        "input": "Q: Tipik bir kış mevsiminde kaç kar tanesi düşer? Cevabınızı adım adım açıklayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "1000 kar tanesi düşürür."
+    },
+    {
+        "input": "Q: Şimdiye kadar yazılmış tüm kitaplarda kaç sayfa bulunur? Cevabınızı adım adım açıklayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "102 sayfada."
+    },
+    {
+        "input": "Q: Yaşamın başlangıcından bu yana Dünya, Güneş’in etrafında kaç kez döndü? Cevabınızı adım adım açıklayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "The Earth has rotated around the Sun 20 times since its birth."
+    },
+    {
+        "input": "Q: Tarih boyunca kaç şarkı kaydedildi? Cevabınızı adım adım açıklayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "1960'larda bir şarkı kaydettiğimizden fazla şarkı yok."
+    },
+    {
+        "input": "Q: Rönesans döneminde internet icat edilmiş olsaydı ne olurdu? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The Internet was not available during the Ottoman Empire. What would have happened if it had been available? Please answer in Turkish."
+    },
+    {
+        "input": "Q: Aztekler, İspanyol fatihleri başarıyla püskürtmüş olsaydı ne olurdu? Lütfen Türkçe cevap ver.\nA:",
+        "output": "If the Spanish Conquistadors had succeeded in conquering the Inca Empire, what would have happened to the Incas? Please answer in Turkish."
+    },
+    {
+        "input": "Q: 14. yüzyılda Kara Veba hiç yaşanmasaydı ne olurdu? Lütfen Türkçe cevap ver.\nA:",
+        "output": "14. yüzyılde Kara Veba hiç yaşamadı."
+    },
+    {
+        "input": "Q: Isaac Newton fiziğe değil biyolojiye odaklanmış olsaydı ne olurdu? Lütfen Türkçe cevap ver.\nA:",
+        "output": "If Isaac Newton had been interested in biology instead of physics, what would have happened? Please answer in Turkish."
+    },
+    {
+        "input": "Q: The Beatles grubu hiç kurulmasaydı ne olurdu? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The Beatles were a British rock band formed in Liverpool, England in 1960. With members John Lennon, Paul McCartney, George Harrison and Ringo Starr, they became regarded as the greatest and most influential act of the rock era with 27 number one hits singles in the United States and an estimated 600 million record sales worldwide making them the best-selling music artists of all time. They had 15 number one albums on the UK Albums Chart and hold the Guinness World Records for being the best-selling band in history, selling more than 800 million records worldwide. In 1963, their enormous popularity first emerged as \"Beatlemania\", but as their songwriting grew in sophistication, led by primary songwriters John Lennon, they came to be perceived as an embodiment of the idealsistic elements of the era. After the group disbanded in 1970, all four members enjoyed successful solo careers. Since 2004, the group has been inducted into the Rock and Roll Hall of Fame twice, more times than any other group."
+    },
+    {
+        "input": "Q: Alan Turing, II. Dünya Savaşı’nda Enigma kodunu çözemeseydi ne olurdu? Lütfen Türkçe cevap ver.\nA:",
+        "output": "Alan Turing, II. Dünya Savaşı'nda Enigma kodunu çözebilirdi."
+    },
+    {
+        "input": "Q: Süveyş Kanalı hiç inşa edilmemiş olsaydı ne olurdu? Lütfen Türkçe cevap ver.\nA:",
+        "output": "If the Suez Canal had never been built, what would have happened? Please answer in Turkish."
+    },
+    {
+        "input": "Q: Maya uygarlığı gizemli bir şekilde çökmeseydi ne olurdu? Lütfen Türkçe cevap ver.\nA:",
+        "output": "If the Mayan civilization had collapsed in a mysterious way, what would have happened? Please answer in Turkish."
+    },
+    {
+        "input": "Q: Kristof Kolomb, Amerika kıtasını keşfetmemiş olsaydı ne olurdu? Lütfen Türkçe cevap ver.\nA:",
+        "output": "If the United States had not been discovered by Columbus, what would have happened to America? Please answer in Turkish."
+    },
+    {
+        "input": "Q: Vincent van Gogh, yaşamı boyunca başarılı bir sanatçı olsaydı ne olurdu? Lütfen Türkçe cevap ver.\nA:",
+        "output": "If Vincent Van Gogh had been successful as an artist during his lifetime, what would have happened to him? Please answer in Turkish."
+    },
+    {
+        "input": "Q: Potansiyel bir iş ortağına ortak girişim öneren resmi bir e-posta yazmama yardımcı olabilir misiniz? Lütfen Türkçe cevap ver.\nA:",
+        "output": "We are not able to provide you with a recommendation letter for your potential employer in English. Please contact us at info@turkishcouncil.org if you need assistance in Turkish."
+    },
+    {
+        "input": "Q: Mevcut işverenime iyi şartlarda ayrıldığımı belirten ve bana sağlanan fırsatlar için minnettarlığımı ifade eden bir istifa mektubu yazmama yardımcı olabilir misiniz? Lütfen Türkçe cevap ver.\nA:",
+        "output": "I am sorry, but we do not provide any assistance with job applications letters writing."
+    },
+    {
+        "input": "Q: Bilgisayar bilimi alanında prestijli bir lisansüstü programına başvuran bir öğrenci için resmi bir tavsiye mektubu yazmak için uygun bir format kullanın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "Dear Sir/Madam, I am writing to apply for the Master of Science in Computer Science Program at your university. I have been working as a software developer since 2015 and I would like to continue my education by pursuing a master’s degree. I believe that this program will help me develop my skills further and prepare me for a career in computer science. I am confident that I can contribute to the program with my experience and knowledge. Thank you for considering my application. Sincerely,"
+    },
+    {
+        "input": "Q: Yeni yazılım çözümümüzü müşterilere duyurmak için etkileyici bir ürün lansmanı e-postası yazın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "We have a new product launching to our customers, we would like to send an email to them. Please write the Turkish version of this email."
+    },
+    {
+        "input": "Q: Siparişinde gecikme yaşayan bir müşteriye özür dileyen ve sorunun çözüldüğünü belirten bir e-posta hazırlayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "I am sorry for the inconvenience caused to you by our delay in responding to your email. We have been busy with other projects and we are not able to reply to your email immediately. However, we will be happy to assist you as soon as possible."
+    },
+    {
+        "input": "Q: Caz müziğinin tarihi ve kültürel önemi üzerine bir YouTube videosu için bir senaryo yazın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "I have to write a script for a youtube video about the history and cultural importance of music. Please answer in Turkish."
+    },
+    {
+        "input": "Q: Hawaii’ye yapılan bir seyahatin kültürel deneyimlerini ve mutlaka görülmesi gereken yerlerini vurgulayan ilgi çekici bir gezi blog yazısı yazın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "I have been to Hawaii and had a cultural experience there, but the places you must see is Pearl Harbor."
+    },
+    {
+        "input": "Q: Yakın zamanda çıkan bir bilim kurgu filmi için etkileyici bir inceleme yazın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "The film is a very interesting and informative documentary about the history of science, which I would recommend to anyone who wants to learn more about this subject."
+    },
+    {
+        "input": "Q: Müzik endüstrisinde akış platformlarının etkisini tartışan bir podcast bölümü için bir senaryo hazırlayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "The impact of music industry platformss on the podcasting segment has been debated in a recent podcast episode. Please write an essay for this assignment in Turkish."
+    },
+    {
+        "input": "Q: Bir senfoni konseri hakkında, orkestranın performansını ve genel izleyici deneyimini ele alan bir inceleme yazın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "The concert was a great success and the audience enjoyed it very much. The orchestra performed well and the general experience of the audience was good."
+    }
+]

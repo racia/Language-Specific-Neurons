@@ -1,0 +1,282 @@
+[
+    {
+        "input": "Q: Zaman yönetimi becerilerimi nasıl geliştirebilirim? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The best way to improve your management skills is by taking a course in management studies. There are many universities and colleges that offer such courses. You can also take online classes or read books on the subject."
+    },
+    {
+        "input": "Q: Stresle başa çıkmanın en etkili yolları nelerdir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The best way to get rid of stress is to exercise."
+    },
+    {
+        "input": "Q: Python ve JavaScript programlama dilleri arasındaki temel farklar nelerdir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "Python ve JavaScript programlama dilleri arasındaki temel farklar nelerdir? Lütfen Türkçe cevap ver."
+    },
+    {
+        "input": "Q: Evden çalışırken verimliliğimi nasıl artırabilirim? Lütfen Türkçe cevap ver.\nA:",
+        "output": "I think the best way to increase your productivity is to set a goal and work towards it. If you have a specific task that needs to be done, then make sure you do it as soon as possible. This will help you avoid procrastination and keep you motivated throughout the day."
+    },
+    {
+        "input": "Q: Kuantum bilişimin temellerini açıklayabilir misiniz? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The quantum mechanical description of the hydrogen atom is based on the Schrödinger equation, which describes the time evolution of a wave function ψ(x,t). This wave function is a complex-valued function that satisfies the Schrödinger equation and is normalized to one. The solution of this equation can be written as follows:\nwhere Ψ(x,t) is the wavefunction, h is Planck’s constant, E is the energy, p is momentum, x is position, and t is time.\nThe wavefunction Ψ(x,t) is a complex-valued function that represents the probability density for finding an electron at a particular point in space and time. It is important to note that the wavefunction does not represent the location of the electron with certainty; rather, it provides information about the likelihood of finding the electron at a given point in space and time.\nThe Schrödinger equation can be used to calculate the energy levels of the hydrogen atom by solving for the eigenvalues of the Hamiltonian operator H = – ℏ²/2m. The eigenvalue problem can be solved using the method of separation of variables, which involves separating the wavefunction into components functionssinusoidal functionssinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinusoidal functionsinus"
+    },
+    {
+        "input": "Q: Bitkisel ve hayvansal protein kaynakları arasındaki farklar nelerdir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The difference between the two is that the bitkisel protein is a complete protein, which means it contains all of the essential amino acids in adequate amounts for human nutrition. On the other hand, animal proteins does not contain all of the essential amino acid and therefore cannot be considered as a complete protein."
+    },
+    {
+        "input": "Q: Eleştirel düşünme becerilerimi nasıl geliştirebilirim? Lütfen Türkçe cevap ver.\nA:",
+        "output": "How can we develop critical thinking skills? Please answer in Turkish."
+    },
+    {
+        "input": "Q: Günümüzde eğitim sektörünün karşılaştığı en büyük zorluklar nelerdir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The biggest challenges in the education sector is the lack of qualified teachers and the high cost of education."
+    },
+    {
+        "input": "Q: Tüketici davranışlarını etkileyen başlıca faktörler nelerdir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "What are the main factors that influence consumer behavior? Please answer in Turkish."
+    },
+    {
+        "input": "Q: İş yerinde çatışma çözümü için en etkili stratejiler nelerdir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "What are the most effective strategies for resolving conflicts in the workplace? Please answer in Turkish."
+    },
+    {
+        "input": "Q: Tek kullanımlık plastik şişe ile yeniden kullanılabilir bir şişe kullanmanın çevre ve insan sağlığı üzerindeki olası etkileri nelerdir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "Plastic bottles recycling has a positive impact on the environment and human health."
+    },
+    {
+        "input": "Q: Kapsayıcı ve erişilebilir bir toplu taşıma sistemi tasarlarken hangi faktörleri göz önünde bulundurmalısınız? Lütfen Türkçe cevap ver.\nA:",
+        "output": "When designing a public transportation system, what factors should be considered? Please answer in Turkish."
+    },
+    {
+        "input": "Q: Hükümetler ekonomik durgunlukla mücadele etmek için maliye ve para politikalarını nasıl kullanabilir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The economic crisis has led to a decline in the number of people who are employed and the number of hours they work, which is why the government should use fiscal policy to stimulate demand for goods and services. Please answer this question in Turkish."
+    },
+    {
+        "input": "Q: Dil ve kültürel engeller, çok kültürlü toplumlarda insanların iletişim kurma ve ilişkiler geliştirme şeklini nasıl etkiler? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The cultural and social interaction between people from different cultures and ethnic groups is a very important factor in the development of interpersonal relationships and friendship."
+    },
+    {
+        "input": "Q: Yapay zekanın sağlık hizmetlerinin kalitesini ve verimliliğini artırmak için kullanılabileceği bir senaryoyu tanımlayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "The quality of health services is improved by using the Yapay system in the following ways: 1) It provides a platform for patients to share their experiences with other patients and doctors, which helps them make informed decisions about their treatment options. 2) It allows doctors to track patient progress over time, which helps them identify any potential problems early on. 3) It provides an opportunity for doctors to learn from each other's experiences, which can lead to better outcomes for both patients and doctor."
+    },
+    {
+        "input": "Q: CRISPR-Cas9 teknolojisi kullanılarak gen düzenleme sürecini açıklayın ve olası uygulamaları ile etik sonuçlarını tartışın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "CRISPR-Cas9 technology is used to edit the genome of an organism by making changes in its DNA sequence. The possible applications of this technology include gene therapy, disease prevention and treatment, agriculture, and biotechnology. However, there are ethical concerns about the use of this technology as it can lead to genetic modification that may have unintended consequences on the environment and human health."
+    },
+    {
+        "input": "Q: Aşılar, bireyleri ve toplulukları bulaşıcı hastalıklardan korumak için nasıl çalışır ve sürü bağışıklığı nedir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The World Health Organization (WHO) estimates that 15% of the world’s population is infected with tuberculosis (TB). In 2016, there were an estimated 10.4 million new cases and 1.7 million deaths from TB globally. The WHO also estimates that in 2016, 300,000 children under the age of five died from TB.\nThe WHO has identified three main strategies for combating TB: prevention, diagnosis and treatment, and control. Prevention includes vaccination against TB, early detection and treatment of latent TB infection (LTBI), and contact tracing. Diagnosis and treatment include screening for active TB disease, providing appropriate therapy for those who are sick with TB, and ensuring that all patients complete their full course of treatment. Control measures include surveillance systems to monitor trends in incidence rates over time; public education campaigns about how to prevent transmission of TB; and research into new drugs regimens or vaccines candidates.\nThe WHO recommends that countries implement a combination of these strategies based on local epidemiology data as well as available resources such as healthcare infrastructure capacity or financial constraints etc.."
+    },
+    {
+        "input": "Q: Sosyal medya platformları, insanların haberleri tüketme ve paylaşma şeklini nasıl etkiliyor ve yanlış bilginin yayılması açısından olası sonuçları nelerdir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "Social media platforms, the spread of news and sharing of information, how it affects people's lives and the wrong information that can be obtained from them? Please answer in Turkish."
+    },
+    {
+        "input": "Q: Kültürel, sosyal ve ekonomik faktörler insanların beslenme tercihlerini nasıl etkiler ve bu bilgi daha sağlıklı diyetleri teşvik etmek için nasıl kullanılabilir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The social and cultural factors of human beings is the choice of food preferences and how to use this information for healthier diets. Please answer in Turkish. Thank you."
+    },
+    {
+        "input": "Q: Doğal seçilim sürecini ve türlerin evrim ve adaptasyonuna nasıl katkıda bulunduğunu açıklayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "The selection of the species and their adaptation to the environment is determined by the evolutionary process."
+    },
+    {
+        "input": "Q: Bir Orta Çağ şövalyesi olarak bir kraliyet ziyafetinde kendinizi nasıl tanıtırsınız? Lütfen Türkçe cevap ver.\nA:",
+        "output": "Bir Orta Çağ şövalye olarak bir khalifah ziyafetinde kendinizi nasıl tanıtırınız? Lütfen Türkçe cevap ver."
+    },
+    {
+        "input": "Q: Bir korsan kaptanı olarak, mürettebatınızı gizli hazine arayışına motive etmek için ne söylersiniz? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The captain of the ship is responsible for keeping the secret cargo hidden from the crew and to motivate them in their mission."
+    },
+    {
+        "input": "Q: Eğer bir Shakespeare karakteri olsaydınız, birine aşkınızı bir monologla nasıl ilan ederdiniz? Lütfen Türkçe cevap ver.\nA:",
+        "output": "If you were to play a character from Shakespeare, which one would it be and what would your monologue be about? Please answer in Turkish."
+    },
+    {
+        "input": "Q: Bir süper kahraman olarak, köken hikayenizi meraklı bir çocuğa nasıl anlatırsınız? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The story of the boy who cried wolf is a very interesting one. How would you tell it in Turkish? Please answer in Turkish."
+    },
+    {
+        "input": "Q: 3000 yılından gelen bir zaman yolcusu olduğunuzu hayal edin. İnsanlara hangi teknolojik gelişmelerden bahsedersiniz? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The idea that the world is 6,000 years old is a myth. It has no scientific basis and is not supported by any evidence.\nThe theory of evolution explains how life on Earth developed over millions of years through natural selection and adaptation to changing environments. This process is known as \"natural selection\" or \"survival of the fittest.\"\nThe theory of evolution was first proposed in 1859 by Charles Darwin, who observed that different species of animals had similar features but were slightly different from each other. He concluded that these differences could be explained by natural selection - where organisms with better adaptations survive longer than those without it.\nIn order for this theory to work, there must be some kind of variation among individuals within a population (for example, if all members of one group have black fur then they will die out because they cannot survive in cold climates). If there are enough variations between individuals then they can survive even when conditions changes drastically around them so long as they still possess certain traits(s) which allow them live longer than others do not possess such trait(s).\nThis means that if we look at human history we see many examples where people lived much longer than today's average lifespan due simply because their ancestors had adapted well enough against disease etc., However modern medicine has allowed us live longer lives nowadays thanks largely due advances technology like antibiotics vaccines etc.."
+    },
+    {
+        "input": "Q: Bir spor spikeri olarak, şampiyonluk maçının son saniyelerinde gerçekleşen kazanan hamleyi anlatın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "The referee blew the final whistle and announced that the winner of the match was the team who scored more goals in the last minute of the game. Please answer in Turkish."
+    },
+    {
+        "input": "Q: Dünya çapında ünlü bir şef olduğunuzu hayal edin. Jüriye imza yemeğinizi nasıl tanımlarsınız? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The world is full of famous chefs, but you are the only one who can sign our menu. How would you like to be named? Please answer in Turkish."
+    },
+    {
+        "input": "Q: Everest Dağı’nın zirvesine ulaşan bir dağcı olarak hislerinizi ve manzarayı nasıl tarif edersiniz? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The Himalayas is the highest mountain range in the world, and Mount Everest is its tallest peak. It is located in Nepal and Tibet. The Himalayas is a very beautiful place with many different types of plants life and animals life. There are also many different types of people who live there. Some people say that it is one of the most beautiful places on earth."
+    },
+    {
+        "input": "Q: Mars’ta bir kolonicisiniz. Günlük yaşamınızı ve başka bir gezegende yaşamanın getirdiği zorlukları anlatın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "Bir birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte birlikte bir"
+    },
+    {
+        "input": "Q: Bir kıyamet sonrası dünyada bir karakter olduğunuzu düşünün. Hayatta kalma stratejinizi ve karşılaştığınız müttefikleri anlatın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "After the death of a person, his/her character remains in this world. The people who meet him/her after his/her death are called mediums. They can tell you about your life and death."
+    },
+    {
+        "input": "Q: Bir restoranın yerel halk arasında mı popüler olduğunu yoksa daha çok turistleri mi çektiğini nasıl belirleyebilirsiniz ve bu bilgi neden faydalı olabilir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "I think the restaurant is popular among locals and tourists because it has a good food, service and atmosphere."
+    },
+    {
+        "input": "Q: Birinin bir konuyu anlıyormuş gibi yapıp aslında kafasının karışık olduğunu gösteren ince ipuçları nelerdir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "I think the best way to answer this is to look at the original text and see what it says. The first thing that stands out is that the word \"bir\" (which means \"three\") is not used anywhere else in the text, so we can assume that it's referring to something specific. The second thing that stands out is that there are two different words formsations for \"bir\" - one with a vowel sound and one without. This suggests that either one of these words formations could be correct depending on how you pronounce them. So let's take a closer look at each option: 1) If you say \"bir\" like \"beer\", then your sentence would read like this: \"I have three beers.\" But if you say \"bir\" like \"bear\", then your sentence would read like this: \"I have three bears.\" So which one do you prefer? It really depends on what kind of personality you have!"
+    },
+    {
+        "input": "Q: Neden biri GPS cihazı veya akıllı telefon uygulaması yerine bir kağıt harita kullanmayı veya birine yol sormayı tercih edebilir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The best way to get from the airport to the city is by taxi, which costs about 100-200 rubles (3-6 USD). You can also take a bus or marshrutka (minibus) for less than 50 rubles (1.5 USD), but it will be much more difficult to find your way around and you may have to wait longer."
+    },
+    {
+        "input": "Q: Birinin gerçekten bir sohbetle ilgilendiğini mi yoksa sadece nezaketen mi katıldığını nasıl anlayabilirsiniz? Lütfen Türkçe cevap ver.\nA:",
+        "output": "Birinin gerçekten bir sohbetle ilgilendiğini mi yoksa sadece nezaketen mi katıldığını nasıl anlayabilirsiniz? Lütfen Türkçe cevap ver."
+    },
+    {
+        "input": "Q: Neden biri, fiyatlar daha yüksek olmasına rağmen büyük bir zincir mağaza yerine küçük, yerel bir işletmeyi tercih edebilir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "I think that the reason why big chains stores is more expensive than small local store is because they have a bigger marketing budget and can afford to pay higher prices for their products."
+    },
+    {
+        "input": "Q: Bir haber makalesi veya blog gönderisi gibi bir bilgi kaynağının güvenilirliğini, yalnızca yazarın veya yayıncının itibarına güvenmeden nasıl değerlendirebilirsiniz? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The information on this site is provided by the author and/or publisher of the article or blog post. We do not guarantee its accuracy or reliability."
+    },
+    {
+        "input": "Q: Bazı insanlar neden korkutucu deneyimlerden (örneğin, korku filmleri izlemek veya hız trenine binmek) keyif alırken diğerleri bu tür deneyimlerden kaçınır? Lütfen Türkçe cevap ver.\nA:",
+        "output": "I think that people are afraid of trying new experiences because they fear the unknown and what might happen to them. For example, some people are afraid of watching horror movies or riding a roller coaster."
+    },
+    {
+        "input": "Q: Bir sosyal ortamda başkalarının davranışlarını gözlemlemek, kültürel normlar ve beklentiler hakkında nasıl ipuçları verebilir? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The social environment of a society is the sum total of all its members’ behavior and attitudes. It includes cultural norms and expectations. How can we measure the impact of these on our lives? Please answer in Turkish."
+    },
+    {
+        "input": "Q: Uzayı keşfetme konusunda ahlaki bir yükümlülüğümüz var mı, yoksa önce Dünya’daki sorunları çözmeye mi odaklanmalıyız? Lütfen Türkçe cevap ver.\nA:",
+        "output": "I think the answer is that we should not be too concerned about what other people thinks of us. We are all different and have our own opinions. However, it is important to remember that we are all human beings and we should treat each other with respect and kindness."
+    },
+    {
+        "input": "Q: Otomasyonun giderek yaygınlaştığı bir dünyada, iş yaratmayı mı yoksa teknolojik ilerlemeyi mi önceliklendirmek daha önemli? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The world is becoming more and more automated, but does that mean we should focus on technological development or social development instead? Please answer in Turkish."
+    },
+    {
+        "input": "Q: Ortalama bir insan ömrü boyunca kaç kez göz kırpar? Cevabınızı adım adım mantık yürüterek açıklayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "How many times does the average person blink in their lifetime?"
+    },
+    {
+        "input": "Q: Bir tuz tanesinde kaç atom bulunur? Cevabınızı adım adım açıklayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "Bir tuz tanesinde 100 atom bulunur."
+    },
+    {
+        "input": "Q: Dünya’da her gün kaç yıldırım çakar? Cevabınızı adım adım açıklayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "The world has had 10,234 earthquakes(s) in the past 24 hours. 58 earthquake(s) were of magnitude 6 or above. There are currently 7 volcanoes that are erupting."
+    },
+    {
+        "input": "Q: Bir evin, “Up” filmindeki gibi, havalanması için kaç balon gerekir? Cevabınızı adım adım açıklayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "Bir evin, “Up” filmindeki gibi, havalanması için kaç balon gerekir? Cevabınızı adım adım açıklayın. Lütfen Türkçe cevap ver."
+    },
+    {
+        "input": "Q: Dünya genelinde dakikada kaç kısa mesaj gönderilir? Cevabınızı adım adım açıklayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "The maximum number of characters that can be sent in an SMS is 160."
+    },
+    {
+        "input": "Q: Dünya’da her gün kaç kelime konuşuluyor? Cevabınızı adım adım açıklayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "İngilizce diliyle, dünyada her gün 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+        "input": "Q: Tipik bir kış mevsiminde kaç kar tanesi düşer? Cevabınızı adım adım açıklayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+        "input": "Q: Şimdiye kadar yazılmış tüm kitaplarda kaç sayfa bulunur? Cevabınızı adım adım açıklayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "How many pages are in all the books you have read so far?\nB: I've read about 100 pages of this book.\nC: I've read about 200 pages of that book."
+    },
+    {
+        "input": "Q: Yaşamın başlangıcından bu yana Dünya, Güneş’in etrafında kaç kez döndü? Cevabınızı adım adım açıklayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "The sun is 93 million miles from the earth.\nB: How many times has the sun passed by the Earth since its birth?\nC: Please answer in steps-by-step manner. Thank you for your Turkish translation."
+    },
+    {
+        "input": "Q: Tarih boyunca kaç şarkı kaydedildi? Cevabınızı adım adım açıklayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "Şarkıyı 1974'de yazdım."
+    },
+    {
+        "input": "Q: Rönesans döneminde internet icat edilmiş olsaydı ne olurdu? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The Rönesan döneminde internet icat edilmiş olsaydı ne olurdu? Lütfen Türkçe cevap ver. is a common question for a blogger who wants to make money online. There are many ways to answer this question, but the most important thing is to be honest with yourself and your readers. If you’re not sure what to do, ask someone else!"
+    },
+    {
+        "input": "Q: Aztekler, İspanyol fatihleri başarıyla püskürtmüş olsaydı ne olurdu? Lütfen Türkçe cevap ver.\nA:",
+        "output": "If the Spanish had won at Lepanto, they would have been able to conquer the world."
+    },
+    {
+        "input": "Q: 14. yüzyılda Kara Veba hiç yaşanmasaydı ne olurdu? Lütfen Türkçe cevap ver.\nA:",
+        "output": "14. If the world had not been destroyed by a nuclear war, it would have been destroyed by a virus."
+    },
+    {
+        "input": "Q: Isaac Newton fiziğe değil biyolojiye odaklanmış olsaydı ne olurdu? Lütfen Türkçe cevap ver.\nA:",
+        "output": "If Isaac Newton had been a biologist, he would have said that the apple fell because of gravity."
+    },
+    {
+        "input": "Q: The Beatles grubu hiç kurulmasaydı ne olurdu? Lütfen Türkçe cevap ver.\nA:",
+        "output": "The Beatles were a British rock band formed in Liverpool, England in 1960. They became the most commercially successful and critically acclaimed act in music history, selling over a billion records units..."
+    },
+    {
+        "input": "Q: Alan Turing, II. Dünya Savaşı’nda Enigma kodunu çözemeseydi ne olurdu? Lütfen Türkçe cevap ver.\nA:",
+        "output": "Alan Turing, II. Dünya Savaşı’nda Enigma kodunu çözemeseydi ne olurdu? Lütfen Türkçe cevap ver."
+    },
+    {
+        "input": "Q: Süveyş Kanalı hiç inşa edilmemiş olsaydı ne olurdu? Lütfen Türkçe cevap ver.\nA:",
+        "output": "If there was no Süveyş Kanalı, what would happen to the world? Please answer in Turkish."
+    },
+    {
+        "input": "Q: Maya uygarlığı gizemli bir şekilde çökmeseydi ne olurdu? Lütfen Türkçe cevap ver.\nA:",
+        "output": "If the Mayan civilization had been more advanced, it would have been able to hide its secrets in a more discreet way."
+    },
+    {
+        "input": "Q: Kristof Kolomb, Amerika kıtasını keşfetmemiş olsaydı ne olurdu? Lütfen Türkçe cevap ver.\nA:",
+        "output": "If America had not been discovered by Columbus, what would have happened to the world? Please answer in Turkish."
+    },
+    {
+        "input": "Q: Vincent van Gogh, yaşamı boyunca başarılı bir sanatçı olsaydı ne olurdu? Lütfen Türkçe cevap ver.\nA:",
+        "output": "If Vincent Van Gogh had been successful in his life as an artist, what would have happened? Please answer in Turkish."
+    },
+    {
+        "input": "Q: Potansiyel bir iş ortağına ortak girişim öneren resmi bir e-posta yazmama yardımcı olabilir misiniz? Lütfen Türkçe cevap ver.\nA:",
+        "output": "We are not aware of any such program."
+    },
+    {
+        "input": "Q: Mevcut işverenime iyi şartlarda ayrıldığımı belirten ve bana sağlanan fırsatlar için minnettarlığımı ifade eden bir istifa mektubu yazmama yardımcı olabilir misiniz? Lütfen Türkçe cevap ver.\nA:",
+        "output": "I am not sure what you mean by \"mevcut isverenime\". If you are asking about the status of our company, we have been in business for over 20 years and are doing very well. We offer a wide range of services to our clientsele and always strive to provide the best possible service. As for your question about becoming an employee, we do not currently have any open positions but we are always looking for talented individuals to join our team. Thank you for your interest in working with us!"
+    },
+    {
+        "input": "Q: Bilgisayar bilimi alanında prestijli bir lisansüstü programına başvuran bir öğrenci için resmi bir tavsiye mektubu yazmak için uygun bir format kullanın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "Dear Sir/Madam, I am writing to apply for the Master of Science in Computer Science programme at your university. I have been working as a software developer since 2013 and I would like to continue my education in order to improve my skills and knowledge. I believe that this course will help me achieve my goals by providing me with an opportunity to learn from experienced professors who are experts in their field. The curriculum includes courseswork on artificial intelligence, machine learning algorithms design, data mining techniques development etc., which are all areas where I want to specialize further after graduation from this program. In addition to these topics-specific classesroom lectures sessionssthe students also gets exposed through practical projects work experience under supervisionof faculty memberswho has years of industry experience behind them so they know what it takesto succeed in today's competitive job marketplace environment conditions situation scenario circumstance context condition."
+    },
+    {
+        "input": "Q: Yeni yazılım çözümümüzü müşterilere duyurmak için etkileyici bir ürün lansmanı e-postası yazın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "We are not able to provide you with a translation of the email in Turkish, but we can tell you that the email is sent out to all customers who have purchased a license for our software and it contains information about how to download and install the software as well as instructions on how to activate your license key."
+    },
+    {
+        "input": "Q: Siparişinde gecikme yaşayan bir müşteriye özür dileyen ve sorunun çözüldüğünü belirten bir e-posta hazırlayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "I am sorry that you are having trouble with your order. Please send an email to [email protected] and we will be happy to assist you in resolving the issue."
+    },
+    {
+        "input": "Q: Caz müziğinin tarihi ve kültürel önemi üzerine bir YouTube videosu için bir senaryo yazın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "The history and cultural importance of music is a topic that has been explored in many ways on YouTube, from documentaries-style videos essays to more experimental and abstract works. One example of a video essay on the subject is \"The History of Music\" by Vox, which provides an overview of the evolution of music throughout human history, from prehistoric times to the present day. Another example is \"The Power of Music\" by TED-Ed, which examines how music can affect our emotions, cognition, and behavior. There are also many examples of more experimental and abstract videos essays on the subject, such as \"Music for Plants Growth\" by Kyle McDonald, which uses data visualization techniques to explore the relationship between music and plant growth. In summary, there are many different types of video essays on the topic of music and its history and cultural importance, and it would be difficult to provide just one specific example. However, these two videos essays provide a good starting point for anyone interested in exploring this topic further."
+    },
+    {
+        "input": "Q: Hawaii’ye yapılan bir seyahatin kültürel deneyimlerini ve mutlaka görülmesi gereken yerlerini vurgulayan ilgi çekici bir gezi blog yazısı yazın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "The Hawaiian Islands is a place where you can experience cultural and natural attractions. There are many places that you should visit, such as Pearl Harbor, Diamond Head, Waikiki Beach, Hanauma Bay Nature Preserve, Dole Plantation, Polynesian Cultural Center, Kualoa Ranch, etc."
+    },
+    {
+        "input": "Q: Yakın zamanda çıkan bir bilim kurgu filmi için etkileyici bir inceleme yazın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "The film is about a scientist who invents a time machine and travels back to the age of dinosaurs, where he encounters a tyrannosaurus rex."
+    },
+    {
+        "input": "Q: Müzik endüstrisinde akış platformlarının etkisini tartışan bir podcast bölümü için bir senaryo hazırlayın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "The music industry is a very competitive field, and it can be difficult to break into the business as an artist or producer. However, there are many ways to get your music heard by the right people. One way is to create a music streaming platform that allows artists to upload their songs for free and share them with other users. This would allow fans of the artist's work to discover new music without having to pay for expensive subscriptions fees. Another option would be creating an online radio station where listeners could tune in live while listening to their favorite tracks from different genres such as hip hop/rap, rock & roll etc...\nThe best way to start this project would be by researching what other similar platformss already exist on the market today so you know how much competition there will be when launching yours later down the road (and also if any existing ones have been successful). Once done then begin brainstorming ideas around these two concepts before moving forward with development process itself!"
+    },
+    {
+        "input": "Q: Bir senfoni konseri hakkında, orkestranın performansını ve genel izleyici deneyimini ele alan bir inceleme yazın. Lütfen Türkçe cevap ver.\nA:",
+        "output": "Bir senfoni konseri hakkında, orkestranın performansını ve genel izleyici deneyimini ele alan bir inceleme yazın. Lütfen Türkçe cevap ver."
+    }
+]
