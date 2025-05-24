@@ -1,3 +1,6 @@
+# Originally from: https://github.com/RUCAIBox/Language-Specific-Neurons
+# Modified by: Raziye Sari for Project: Probing Language-Specific-Neurons
+
 import argparse
 import json
 import os
@@ -35,8 +38,8 @@ def load_dataset(lang, sampling_params):
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument("-m", "--model", type=str, default="meta-llama/Llama-3-8b-hf")
-parser.add_argument("-a", "--activation_mask", type=str, default="")
+parser.add_argument("-m", "--model", type=str, default="meta-llama/Llama-2-7b-hf")
+parser.add_argument("-a", "--activation_mask", type=str, default="") #activation_mask/en.train.llama-7b
 args = parser.parse_args()
 
 model = LLM(model=args.model, tensor_parallel_size=torch.cuda.device_count(), enforce_eager=True)
@@ -58,7 +61,7 @@ output_folder = f"results/{args.model.split('/')[-1]}/mvicuna"
 os.makedirs(output_folder, exist_ok=True)
 
 
-for activation_mask, mask_lang in zip(activation_masks, ["tk"]):# "zh", "fr", "es", "vi", "id", "ja", "tr", "tk", "de"]):
+for activation_mask, mask_lang in zip(activation_masks, ["de"]):# "zh", "fr", "es", "vi", "id", "ja", "tr", "tk", "de"]):
     if activation_mask:
         def factory(mask):
             def llama_forward(self, x):
@@ -102,7 +105,7 @@ for activation_mask, mask_lang in zip(activation_masks, ["tk"]):# "zh", "fr", "e
                 obj = model.llm_engine.driver_worker.model_runner.model.transformer.h[i].mlp
             obj.forward = MethodType(factory(layer_mask.to('cuda')), obj)
 
-    for lang in ["de", "en", "tr", "tk"]:
+    for lang in ["en", "de", "tr"]:
         texts, sampling_params = load_dataset(lang, sampling_params)
         outputs = model.generate(texts, sampling_params)
         outputs = [o.outputs[0].text.strip() for o in outputs]

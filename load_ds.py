@@ -4,12 +4,14 @@ from transformers import AutoTokenizer
 import argparse
 
 parser = argparse.ArgumentParser()
-parser.add_argument("-m", "--model", type=str, default="meta-llama/Llama-3.1-8B-Instruct") #ai-forever/mGPT
+parser.add_argument("-m", "--model", type=str, default="ai-forever/mGPT") #ai-forever/mGPT
 
 args = parser.parse_args()
 model = args.model
 
-for lang in ["tr", "tk", "de"]: # en included already
+is_llama = bool(args.model.lower().find('llama') >= 0)
+
+for lang in ["tr", "en", "de"]: # en included already
 
     # Load Wikipedia dataset
     dataset = load_dataset("wikimedia/wikipedia", f"20231101.{lang}", split="train")[-5308:]
@@ -27,8 +29,8 @@ for lang in ["tr", "tk", "de"]: # en included already
         for entry in dataset["text"]:
             tokens = tokenizer.encode(
                 entry, 
-                #padding="max_length",  # Pad to max_length
-                #truncation=True,  # Truncate to max_length
+                padding="max_length",  # Pad to max_length
+                truncation=True,  # Truncate to max_length
                 #max_length=max_length,  # Specify max_length
             )
             
@@ -41,10 +43,10 @@ for lang in ["tr", "tk", "de"]: # en included already
     tensor_data = torch.tensor(long_token_list, dtype=torch.long, device="cuda")
     print("Tensor created")
     # Save the tensor as a file
-    torch.save(tensor_data, f"data/id.{lang}.train.gpt")
+    torch.save(tensor_data, f"data/id.{lang}.train.{'llama' if is_llama else 'gpt'}")
     print("Saved")
     # Load and verify saved tensor
-    tensor_data_loaded = torch.load(f"data/id.{lang}.train.gpt")
+    tensor_data_loaded = torch.load(f"data/id.{lang}.train.{'llama' if is_llama else 'gpt'}")
     print("Tokenized data successfully saved and loaded. Shape:", tensor_data_loaded.shape)
     
     torch.cuda.empty_cache()

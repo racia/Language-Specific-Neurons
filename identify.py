@@ -1,10 +1,13 @@
+# Originally from: https://github.com/RUCAIBox/Language-Specific-Neurons
+# Modified by: Raziye Sari for Project: Probing Language-Specific-Neurons
+
 import argparse
 import torch
 import torch.nn.functional as F
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument("-m", "--model", type=str, default="meta-llama/Llama-3-8b-hf")
+parser.add_argument("-m", "--model", type=str, default="forever-ai/mGPT")
 args = parser.parse_args()
 
 model = "llama-7b" if "llama" in args.model.lower() else "gpt"
@@ -63,7 +66,7 @@ def activation(n, over_zero, num_layers, intermediate_size):
 
 if __name__ == "__main__":
     
-    for lang in ["en", "de", "tr", "tk"]:#, 'en', 'zh', 'fr', 'es', 'vi', 'id', 'ja']:
+    for lang in ["en", "de", "tr"]:#, 'en', 'zh', 'fr', 'es', 'vi', 'id', 'ja']:
         n, over_zero = [], []
         data = torch.load(f'activations/activation.{lang}.train.{model}') #llama-70b
         n.append(data['n'])

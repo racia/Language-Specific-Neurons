@@ -1,25 +1,26 @@
+# Originally from https://github.com/RUCAIBox/Language-Specific-Neurons
+# Modified by: Raziye Sari for Project: Probing Language-Specific-Neurons
+
 import argparse
 from types import MethodType
-
 import torch
 from vllm import LLM, SamplingParams
+from transformers import AutoConfig
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument("-m", "--model", type=str, default="meta-llama/Llama-2-7b-hf")
+parser.add_argument("-m", "--model", type=str, default="ai-forever/mGPT")
 parser.add_argument("-l", "--lang", type=str, default="tr")
 args = parser.parse_args()
 
 is_llama = bool(args.model.lower().find('llama') >= 0)
 is_gpt2 = bool(args.model.lower().find("gpt2") >= 0)
-is_gpt3 = bool(args.model.lower().find("gpt") >= 0)
-from transformers import AutoConfig
+is_gpt3 = bool(args.model.lower().find("gpt") >= 0) #ai-forever/mGPT
 
 config = AutoConfig.from_pretrained(args.model, torch_dtype=torch.bfloat16)
 print(config)
 
 model = LLM(model=args.model, tensor_parallel_size=1, enforce_eager=True, dtype="float16")
-
 
 max_length = model.llm_engine.model_config.max_model_len
 num_layers = model.llm_engine.model_config.hf_config.num_hidden_layers
@@ -55,7 +56,6 @@ def factory(idx):
         over_zero[idx, :] += (activation > 0).sum(dim=(0,1))
         x, _ = self.c_proj(x)
         return x
-
 
     if is_llama:
         return llama_forward
