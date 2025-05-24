@@ -155,7 +155,3 @@ Regarding the research questions, we can answer them in the following way:
 <a id="llama"></a><li>Meta, Llama 2: Open Foundation and Fine-Tuned Chat Models.</li>
 <a id="gpt"></a><li>Shliazhko, Oleh ; Fenogenova, Alena ; Tikhonova, Maria ; Mikhailov, Vladislav ; Kozlova, Anastasia ; Shavrina, Tatiana April 2022 mGPT: Few-Shot Learners Go Multilingual Transactions of the Association for Computational Linguistics, 2024</li>
 </ol>
-
-#### ✏️ Maintenance
-<a id="me"></a>Author: Raziye Sari - sari@cl.uni-heidelberg.de  
-Last updated: May 21th 2025  
